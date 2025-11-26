@@ -1,0 +1,5 @@
+{
+  "name": "Hallucination Check / 幻觉检测器",
+  "description": "A tool to audit AI model outputs against ground truth facts to detect, explain, and fix hallucinations. 帮助您根据事实核查 AI 输出，检测幻觉并提供修改建议。",
+  "requestFramePermissions": []
+}
